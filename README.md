@@ -6,7 +6,7 @@
     github, gitlab là một dùng để lưu trưc các đoạn code cá nhân or project...
 
 2. cách lệnh git cơ bản
-    + git clone: kéo repo từ nơi lưu trữ online về máy 
+    + ```git clone```: kéo repo từ nơi lưu trữ online về máy 
     + git commit: thêm comment cho lần push code lên repo
     + git branch: tạo nhánh, xóa, sửa nhánh...
     + git add: thêm 1 hoặc tất cả các file mới tạo và các file đã được sửa
